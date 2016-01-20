@@ -1,0 +1,3 @@
+com\ba\qr\hub\URLRest.class
+com\ba\qr\bd\ServiceQRQueryImpl.class
+com\ba\qr\bd\IServiceQRQuery.class
